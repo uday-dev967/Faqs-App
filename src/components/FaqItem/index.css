@@ -1,0 +1,32 @@
+.list-item {
+  border-style: solid;
+  border-color: #d7dae6;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.question-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.question {
+  color: #52606d;
+}
+
+.button {
+  border-style: none;
+  background-color: transparent;
+}
+
+.hr {
+  border-color: #e4e7eb;
+}
+
+.answer {
+  color: #9aa5b1;
+  font-weight: 600;
+}
